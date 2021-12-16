@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dpark26
+- 👀 I’m interested in software development/engineering.
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me: danielpark0416@gmail.com
